@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DFA0324C-7E69-4CBE-B67F-7C0D24158BE6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CapaPresentacionBonos</RootNamespace>
+    <AssemblyName>CapaPresentacionBonos</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCargardatos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCargardatos.Designer.cs">
+      <DependentUpon>FrmCargardatos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCargardatosIE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCargardatosIE.Designer.cs">
+      <DependentUpon>FrmCargardatosIE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDiscapacitadosAM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDiscapacitadosAM.Designer.cs">
+      <DependentUpon>FrmDiscapacitadosAM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDiscapacitados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDiscapacitados.Designer.cs">
+      <DependentUpon>FrmDiscapacitados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMunicipio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMunicipio.Designer.cs">
+      <DependentUpon>FrmMunicipio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMunicipioAM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMunicipioAM.Designer.cs">
+      <DependentUpon>FrmMunicipioAM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTipoDiscapacidad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTipoDiscapacidad.Designer.cs">
+      <DependentUpon>FrmTipoDiscapacidad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTipoDiscapacitadosAM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTipoDiscapacitadosAM.Designer.cs">
+      <DependentUpon>FrmTipoDiscapacitadosAM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTutor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTutor.Designer.cs">
+      <DependentUpon>FrmTutor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTutorAM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTutorAM.Designer.cs">
+      <DependentUpon>FrmTutorAM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmUsuario.Designer.cs">
+      <DependentUpon>FrmUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmUsuarioAM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmUsuarioAM.Designer.cs">
+      <DependentUpon>FrmUsuarioAM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="VariablesGlobales.cs" />
+    <EmbeddedResource Include="FrmCargardatos.resx">
+      <DependentUpon>FrmCargardatos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCargardatosIE.resx">
+      <DependentUpon>FrmCargardatosIE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDiscapacitados.resx">
+      <DependentUpon>FrmDiscapacitados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDiscapacitadosAM.resx">
+      <DependentUpon>FrmDiscapacitadosAM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMunicipio.resx">
+      <DependentUpon>FrmMunicipio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMunicipioAM.resx">
+      <DependentUpon>FrmMunicipioAM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTipoDiscapacidad.resx">
+      <DependentUpon>FrmTipoDiscapacidad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTipoDiscapacitadosAM.resx">
+      <DependentUpon>FrmTipoDiscapacitadosAM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTutor.resx">
+      <DependentUpon>FrmTutor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTutorAM.resx">
+      <DependentUpon>FrmTutorAM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmUsuario.resx">
+      <DependentUpon>FrmUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmUsuarioAM.resx">
+      <DependentUpon>FrmUsuarioAM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CapaNegocioBonos\CapaNegocioBonos.csproj">
+      <Project>{24c7a45e-4b09-4f7d-bd0c-8ae9031a30f0}</Project>
+      <Name>CapaNegocioBonos</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

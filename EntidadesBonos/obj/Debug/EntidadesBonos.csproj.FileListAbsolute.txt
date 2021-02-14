@@ -1,0 +1,15 @@
+c:\users\juan carlos\documents\visual studio 2015\Projects\CapaPresentacionBonos\EntidadesBonos\bin\Debug\EntidadesBonos.dll
+c:\users\juan carlos\documents\visual studio 2015\Projects\CapaPresentacionBonos\EntidadesBonos\bin\Debug\EntidadesBonos.pdb
+c:\users\juan carlos\documents\visual studio 2015\Projects\CapaPresentacionBonos\EntidadesBonos\obj\Debug\EntidadesBonos.csprojResolveAssemblyReference.cache
+c:\users\juan carlos\documents\visual studio 2015\Projects\CapaPresentacionBonos\EntidadesBonos\obj\Debug\EntidadesBonos.dll
+c:\users\juan carlos\documents\visual studio 2015\Projects\CapaPresentacionBonos\EntidadesBonos\obj\Debug\EntidadesBonos.pdb
+C:\Users\Juan Carlos\Desktop\CapaPresentacionBonos\EntidadesBonos\bin\Debug\EntidadesBonos.dll
+C:\Users\Juan Carlos\Desktop\CapaPresentacionBonos\EntidadesBonos\bin\Debug\EntidadesBonos.pdb
+C:\Users\Juan Carlos\Desktop\CapaPresentacionBonos\EntidadesBonos\obj\Debug\EntidadesBonos.csprojResolveAssemblyReference.cache
+C:\Users\Juan Carlos\Desktop\CapaPresentacionBonos\EntidadesBonos\obj\Debug\EntidadesBonos.dll
+C:\Users\Juan Carlos\Desktop\CapaPresentacionBonos\EntidadesBonos\obj\Debug\EntidadesBonos.pdb
+C:\Users\Juan Carlos\Pictures\CapaPresentacionBonos\EntidadesBonos\bin\Debug\EntidadesBonos.dll
+C:\Users\Juan Carlos\Pictures\CapaPresentacionBonos\EntidadesBonos\bin\Debug\EntidadesBonos.pdb
+C:\Users\Juan Carlos\Pictures\CapaPresentacionBonos\EntidadesBonos\obj\Debug\EntidadesBonos.csprojResolveAssemblyReference.cache
+C:\Users\Juan Carlos\Pictures\CapaPresentacionBonos\EntidadesBonos\obj\Debug\EntidadesBonos.dll
+C:\Users\Juan Carlos\Pictures\CapaPresentacionBonos\EntidadesBonos\obj\Debug\EntidadesBonos.pdb

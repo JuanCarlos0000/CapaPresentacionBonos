@@ -1,0 +1,21 @@
+c:\users\juan carlos\documents\visual studio 2015\Projects\CapaPresentacionBonos\CapaDatosBonos\bin\Debug\CapaDatosBonos.dll
+c:\users\juan carlos\documents\visual studio 2015\Projects\CapaPresentacionBonos\CapaDatosBonos\bin\Debug\CapaDatosBonos.pdb
+c:\users\juan carlos\documents\visual studio 2015\Projects\CapaPresentacionBonos\CapaDatosBonos\bin\Debug\EntidadesBonos.dll
+c:\users\juan carlos\documents\visual studio 2015\Projects\CapaPresentacionBonos\CapaDatosBonos\bin\Debug\EntidadesBonos.pdb
+c:\users\juan carlos\documents\visual studio 2015\Projects\CapaPresentacionBonos\CapaDatosBonos\obj\Debug\CapaDatosBonos.csprojResolveAssemblyReference.cache
+c:\users\juan carlos\documents\visual studio 2015\Projects\CapaPresentacionBonos\CapaDatosBonos\obj\Debug\CapaDatosBonos.dll
+c:\users\juan carlos\documents\visual studio 2015\Projects\CapaPresentacionBonos\CapaDatosBonos\obj\Debug\CapaDatosBonos.pdb
+C:\Users\Juan Carlos\Desktop\CapaPresentacionBonos\CapaDatosBonos\bin\Debug\CapaDatosBonos.dll
+C:\Users\Juan Carlos\Desktop\CapaPresentacionBonos\CapaDatosBonos\bin\Debug\CapaDatosBonos.pdb
+C:\Users\Juan Carlos\Desktop\CapaPresentacionBonos\CapaDatosBonos\bin\Debug\EntidadesBonos.dll
+C:\Users\Juan Carlos\Desktop\CapaPresentacionBonos\CapaDatosBonos\bin\Debug\EntidadesBonos.pdb
+C:\Users\Juan Carlos\Desktop\CapaPresentacionBonos\CapaDatosBonos\obj\Debug\CapaDatosBonos.csprojResolveAssemblyReference.cache
+C:\Users\Juan Carlos\Desktop\CapaPresentacionBonos\CapaDatosBonos\obj\Debug\CapaDatosBonos.dll
+C:\Users\Juan Carlos\Desktop\CapaPresentacionBonos\CapaDatosBonos\obj\Debug\CapaDatosBonos.pdb
+C:\Users\Juan Carlos\Pictures\CapaPresentacionBonos\CapaDatosBonos\bin\Debug\CapaDatosBonos.dll
+C:\Users\Juan Carlos\Pictures\CapaPresentacionBonos\CapaDatosBonos\bin\Debug\CapaDatosBonos.pdb
+C:\Users\Juan Carlos\Pictures\CapaPresentacionBonos\CapaDatosBonos\bin\Debug\EntidadesBonos.dll
+C:\Users\Juan Carlos\Pictures\CapaPresentacionBonos\CapaDatosBonos\bin\Debug\EntidadesBonos.pdb
+C:\Users\Juan Carlos\Pictures\CapaPresentacionBonos\CapaDatosBonos\obj\Debug\CapaDatosBonos.csprojResolveAssemblyReference.cache
+C:\Users\Juan Carlos\Pictures\CapaPresentacionBonos\CapaDatosBonos\obj\Debug\CapaDatosBonos.dll
+C:\Users\Juan Carlos\Pictures\CapaPresentacionBonos\CapaDatosBonos\obj\Debug\CapaDatosBonos.pdb

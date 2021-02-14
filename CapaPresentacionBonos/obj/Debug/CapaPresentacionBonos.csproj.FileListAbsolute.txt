@@ -1,0 +1,67 @@
+c:\users\juan carlos\documents\visual studio 2015\Projects\CapaPresentacionBonos\CapaPresentacionBonos\bin\Debug\CapaPresentacionBonos.exe.config
+c:\users\juan carlos\documents\visual studio 2015\Projects\CapaPresentacionBonos\CapaPresentacionBonos\bin\Debug\CapaPresentacionBonos.exe
+c:\users\juan carlos\documents\visual studio 2015\Projects\CapaPresentacionBonos\CapaPresentacionBonos\bin\Debug\CapaPresentacionBonos.pdb
+c:\users\juan carlos\documents\visual studio 2015\Projects\CapaPresentacionBonos\CapaPresentacionBonos\obj\Debug\CapaPresentacionBonos.csprojResolveAssemblyReference.cache
+c:\users\juan carlos\documents\visual studio 2015\Projects\CapaPresentacionBonos\CapaPresentacionBonos\obj\Debug\CapaPresentacionBonos.Properties.Resources.resources
+c:\users\juan carlos\documents\visual studio 2015\Projects\CapaPresentacionBonos\CapaPresentacionBonos\obj\Debug\CapaPresentacionBonos.csproj.GenerateResource.Cache
+c:\users\juan carlos\documents\visual studio 2015\Projects\CapaPresentacionBonos\CapaPresentacionBonos\obj\Debug\CapaPresentacionBonos.exe
+c:\users\juan carlos\documents\visual studio 2015\Projects\CapaPresentacionBonos\CapaPresentacionBonos\obj\Debug\CapaPresentacionBonos.pdb
+c:\users\juan carlos\documents\visual studio 2015\Projects\CapaPresentacionBonos\CapaPresentacionBonos\bin\Debug\CapaNegocioBonos.dll
+c:\users\juan carlos\documents\visual studio 2015\Projects\CapaPresentacionBonos\CapaPresentacionBonos\bin\Debug\CapaDatosBonos.dll
+c:\users\juan carlos\documents\visual studio 2015\Projects\CapaPresentacionBonos\CapaPresentacionBonos\bin\Debug\CapaNegocioBonos.pdb
+c:\users\juan carlos\documents\visual studio 2015\Projects\CapaPresentacionBonos\CapaPresentacionBonos\bin\Debug\CapaDatosBonos.pdb
+C:\Users\Juan Carlos\Documents\Visual Studio 2015\Projects\CapaPresentacionBonos\CapaPresentacionBonos\bin\Debug\EntidadesBonos.dll
+C:\Users\Juan Carlos\Documents\Visual Studio 2015\Projects\CapaPresentacionBonos\CapaPresentacionBonos\bin\Debug\EntidadesBonos.pdb
+C:\Users\Juan Carlos\Documents\Visual Studio 2015\Projects\CapaPresentacionBonos\CapaPresentacionBonos\obj\Debug\CapaPresentacionBonos.FrmDiscapacitados.resources
+C:\Users\Juan Carlos\Documents\Visual Studio 2015\Projects\CapaPresentacionBonos\CapaPresentacionBonos\obj\Debug\CapaPresentacionBonos.FrmDiscapacitadosAM.resources
+C:\Users\Juan Carlos\Desktop\CapaPresentacionBonos\CapaPresentacionBonos\bin\Debug\CapaPresentacionBonos.exe.config
+C:\Users\Juan Carlos\Desktop\CapaPresentacionBonos\CapaPresentacionBonos\obj\Debug\CapaPresentacionBonos.exe
+C:\Users\Juan Carlos\Desktop\CapaPresentacionBonos\CapaPresentacionBonos\obj\Debug\CapaPresentacionBonos.pdb
+C:\Users\Juan Carlos\Desktop\CapaPresentacionBonos\CapaPresentacionBonos\obj\Debug\CapaPresentacionBonos.csprojResolveAssemblyReference.cache
+C:\Users\Juan Carlos\Desktop\CapaPresentacionBonos\CapaPresentacionBonos\obj\Debug\CapaPresentacionBonos.FrmDiscapacitados.resources
+C:\Users\Juan Carlos\Desktop\CapaPresentacionBonos\CapaPresentacionBonos\obj\Debug\CapaPresentacionBonos.FrmDiscapacitadosAM.resources
+C:\Users\Juan Carlos\Desktop\CapaPresentacionBonos\CapaPresentacionBonos\obj\Debug\CapaPresentacionBonos.Properties.Resources.resources
+C:\Users\Juan Carlos\Desktop\CapaPresentacionBonos\CapaPresentacionBonos\obj\Debug\CapaPresentacionBonos.csproj.GenerateResource.Cache
+C:\Users\Juan Carlos\Desktop\CapaPresentacionBonos\CapaPresentacionBonos\bin\Debug\CapaPresentacionBonos.exe
+C:\Users\Juan Carlos\Desktop\CapaPresentacionBonos\CapaPresentacionBonos\bin\Debug\CapaPresentacionBonos.pdb
+C:\Users\Juan Carlos\Desktop\CapaPresentacionBonos\CapaPresentacionBonos\bin\Debug\CapaNegocioBonos.dll
+C:\Users\Juan Carlos\Desktop\CapaPresentacionBonos\CapaPresentacionBonos\bin\Debug\CapaDatosBonos.dll
+C:\Users\Juan Carlos\Desktop\CapaPresentacionBonos\CapaPresentacionBonos\bin\Debug\EntidadesBonos.dll
+C:\Users\Juan Carlos\Desktop\CapaPresentacionBonos\CapaPresentacionBonos\bin\Debug\CapaNegocioBonos.pdb
+C:\Users\Juan Carlos\Desktop\CapaPresentacionBonos\CapaPresentacionBonos\bin\Debug\CapaDatosBonos.pdb
+C:\Users\Juan Carlos\Desktop\CapaPresentacionBonos\CapaPresentacionBonos\bin\Debug\EntidadesBonos.pdb
+C:\Users\Juan Carlos\Desktop\CapaPresentacionBonos\CapaPresentacionBonos\obj\Debug\CapaPresentacionBonos.FrmTutor.resources
+C:\Users\Juan Carlos\Desktop\CapaPresentacionBonos\CapaPresentacionBonos\obj\Debug\CapaPresentacionBonos.FrmTipoDiscapacidad.resources
+C:\Users\Juan Carlos\Desktop\CapaPresentacionBonos\CapaPresentacionBonos\obj\Debug\CapaPresentacionBonos.FrmTutorAM.resources
+C:\Users\Juan Carlos\Desktop\CapaPresentacionBonos\CapaPresentacionBonos\obj\Debug\CapaPresentacionBonos.FrmUsuario.resources
+C:\Users\Juan Carlos\Desktop\CapaPresentacionBonos\CapaPresentacionBonos\obj\Debug\CapaPresentacionBonos.FrmUsuarioAM.resources
+C:\Users\Juan Carlos\Desktop\CapaPresentacionBonos\CapaPresentacionBonos\obj\Debug\CapaPresentacionBonos.FrmTipoDiscapacidadAM.resources
+C:\Users\Juan Carlos\Desktop\CapaPresentacionBonos\CapaPresentacionBonos\obj\Debug\CapaPresentacionBonos.FrmMunicipio.resources
+C:\Users\Juan Carlos\Desktop\CapaPresentacionBonos\CapaPresentacionBonos\obj\Debug\CapaPresentacionBonos.FrmMunicipioAM.resources
+C:\Users\Juan Carlos\Desktop\CapaPresentacionBonos\CapaPresentacionBonos\obj\Debug\CapaPresentacionBonos.FrmCargardatos.resources
+C:\Users\Juan Carlos\Pictures\CapaPresentacionBonos\CapaPresentacionBonos\bin\Debug\CapaPresentacionBonos.exe.config
+C:\Users\Juan Carlos\Pictures\CapaPresentacionBonos\CapaPresentacionBonos\obj\Debug\CapaPresentacionBonos.exe
+C:\Users\Juan Carlos\Pictures\CapaPresentacionBonos\CapaPresentacionBonos\obj\Debug\CapaPresentacionBonos.pdb
+C:\Users\Juan Carlos\Pictures\CapaPresentacionBonos\CapaPresentacionBonos\bin\Debug\CapaPresentacionBonos.exe
+C:\Users\Juan Carlos\Pictures\CapaPresentacionBonos\CapaPresentacionBonos\bin\Debug\CapaPresentacionBonos.pdb
+C:\Users\Juan Carlos\Pictures\CapaPresentacionBonos\CapaPresentacionBonos\bin\Debug\CapaNegocioBonos.dll
+C:\Users\Juan Carlos\Pictures\CapaPresentacionBonos\CapaPresentacionBonos\bin\Debug\CapaDatosBonos.dll
+C:\Users\Juan Carlos\Pictures\CapaPresentacionBonos\CapaPresentacionBonos\bin\Debug\EntidadesBonos.dll
+C:\Users\Juan Carlos\Pictures\CapaPresentacionBonos\CapaPresentacionBonos\bin\Debug\CapaNegocioBonos.pdb
+C:\Users\Juan Carlos\Pictures\CapaPresentacionBonos\CapaPresentacionBonos\bin\Debug\CapaDatosBonos.pdb
+C:\Users\Juan Carlos\Pictures\CapaPresentacionBonos\CapaPresentacionBonos\bin\Debug\EntidadesBonos.pdb
+C:\Users\Juan Carlos\Pictures\CapaPresentacionBonos\CapaPresentacionBonos\obj\Debug\CapaPresentacionBonos.csprojResolveAssemblyReference.cache
+C:\Users\Juan Carlos\Pictures\CapaPresentacionBonos\CapaPresentacionBonos\obj\Debug\CapaPresentacionBonos.FrmCargardatos.resources
+C:\Users\Juan Carlos\Pictures\CapaPresentacionBonos\CapaPresentacionBonos\obj\Debug\CapaPresentacionBonos.FrmDiscapacitados.resources
+C:\Users\Juan Carlos\Pictures\CapaPresentacionBonos\CapaPresentacionBonos\obj\Debug\CapaPresentacionBonos.FrmDiscapacitadosAM.resources
+C:\Users\Juan Carlos\Pictures\CapaPresentacionBonos\CapaPresentacionBonos\obj\Debug\CapaPresentacionBonos.FrmMunicipio.resources
+C:\Users\Juan Carlos\Pictures\CapaPresentacionBonos\CapaPresentacionBonos\obj\Debug\CapaPresentacionBonos.FrmMunicipioAM.resources
+C:\Users\Juan Carlos\Pictures\CapaPresentacionBonos\CapaPresentacionBonos\obj\Debug\CapaPresentacionBonos.FrmTipoDiscapacidad.resources
+C:\Users\Juan Carlos\Pictures\CapaPresentacionBonos\CapaPresentacionBonos\obj\Debug\CapaPresentacionBonos.FrmTipoDiscapacidadAM.resources
+C:\Users\Juan Carlos\Pictures\CapaPresentacionBonos\CapaPresentacionBonos\obj\Debug\CapaPresentacionBonos.FrmTutor.resources
+C:\Users\Juan Carlos\Pictures\CapaPresentacionBonos\CapaPresentacionBonos\obj\Debug\CapaPresentacionBonos.FrmTutorAM.resources
+C:\Users\Juan Carlos\Pictures\CapaPresentacionBonos\CapaPresentacionBonos\obj\Debug\CapaPresentacionBonos.FrmUsuario.resources
+C:\Users\Juan Carlos\Pictures\CapaPresentacionBonos\CapaPresentacionBonos\obj\Debug\CapaPresentacionBonos.FrmUsuarioAM.resources
+C:\Users\Juan Carlos\Pictures\CapaPresentacionBonos\CapaPresentacionBonos\obj\Debug\CapaPresentacionBonos.Properties.Resources.resources
+C:\Users\Juan Carlos\Pictures\CapaPresentacionBonos\CapaPresentacionBonos\obj\Debug\CapaPresentacionBonos.csproj.GenerateResource.Cache
+C:\Users\Juan Carlos\Pictures\CapaPresentacionBonos\CapaPresentacionBonos\obj\Debug\CapaPresentacionBonos.FrmCargardatosIE.resources
